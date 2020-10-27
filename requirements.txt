@@ -22,7 +22,7 @@ chardet==3.0.4
 checkbox-support==0.22
 click==6.7
 command-not-found==0.3
-cryptography==1.2.3
+cryptography==3.2
 cv-bridge==1.12.8
 defer==1.0.6
 diagnostic-analysis==1.9.3
