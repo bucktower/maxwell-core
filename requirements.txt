@@ -111,7 +111,7 @@ python-qt-binding==0.3.3
 python-systemd==231
 python-xlib==0.14
 pyxdg==0.25
-PyYAML==3.12
+PyYAML==5.4
 qt-dotgraph==0.3.8
 qt-gui==0.3.8
 qt-gui-cpp==0.3.8
