@@ -90,7 +90,7 @@ plaid-python==2.0.3
 plainbox==0.25
 pluginlib==1.11.3
 ply==3.8
-protobuf==3.5.2.post1
+protobuf==3.15.0
 ptyprocess==0.5
 pyasn1==0.2.3
 pyasn1-modules==0.0.8
